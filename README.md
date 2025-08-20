@@ -10,5 +10,3 @@ Website: [https://kirti9510.github.io](https://kirti9510.github.io)
 - Publications
 - Teaching
 - Contact
-
-Built with **HTML + TailwindCSS** and hosted using **GitHub Pages**.
