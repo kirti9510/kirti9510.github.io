@@ -1,1 +1,14 @@
-# kirti9510.github.io
+# Kirti Sharma — Research Profile
+
+This repository hosts the personal research website of **Kirti Sharma**, Assistant Professor at KIET Group of Institutions, Ghaziabad.
+
+Website: [https://kirtisharma.github.io](https://kirtisharma.github.io)
+
+## Sections
+- About Me
+- Research Interests
+- Publications
+- Teaching
+- Contact
+
+Built with **HTML + TailwindCSS** and hosted using **GitHub Pages**.
